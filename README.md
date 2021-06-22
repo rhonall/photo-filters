@@ -14,6 +14,8 @@ This webpage has couple of filters for you to play around on your own photo.
 
 3. I am having trouble to reset the value and photo when click the reset button, thanks Coding Curry's tutorial, I am able to solve it, thanks! (https://www.youtube.com/watch?v=frtfFfgrsk0)  
 
+4. I would like to add a download button to download the after photo in future.
+
 
 
 
